@@ -7,7 +7,6 @@
 - Сессия пользователя (DataStore)
 - Экраны: Splash, Login, Register, Home, Profile, Application, Admin
 - Подача заявления с выбором факультета, образовательной программы, формы обучения и PDF-файла
-- Полностью офлайн
 - Material 3, MVVM, Hilt, Navigation Compose
 
 ## Стек
